@@ -1,0 +1,2 @@
+This is main class file.
+The data is created for linux.txt file.
